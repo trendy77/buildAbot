@@ -1,0 +1,26 @@
+{
+    "name": "trendy77/kikBot",
+    "description": "the crushBot of crushes",
+    "keywords": ["kik","bot","messenger"],
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "Trent Fischer",
+        "email": "email@somewhere.com",
+        "role": "Lead Developer"
+    }],
+    "type": "project",
+    "minimum-stability": "dev",
+    "repositories": [{
+            "type": "composer",
+            "url": "http://wpackagist.org"
+     }],
+    "config": {
+        "vendor-dir": "vendor",
+        "secure-http": false
+    },
+    "require": {
+       "catlabinteractive/kik-php-sdk":"*",
+       "juno_okyo/php-chatfuel-class":"*",
+       
+    }
+  }

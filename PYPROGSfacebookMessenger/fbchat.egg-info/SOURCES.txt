@@ -1,0 +1,16 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+fbchat/__init__.py
+fbchat/client.py
+fbchat/graphql.py
+fbchat/models.py
+fbchat/utils.py
+fbchat.egg-info/PKG-INFO
+fbchat.egg-info/SOURCES.txt
+fbchat.egg-info/dependency_links.txt
+fbchat.egg-info/requires.txt
+fbchat.egg-info/top_level.txt
+fbchat.egg-info/zip-safe

@@ -1,0 +1,31 @@
+{
+    "name": "crushBot",
+    "version": "2.0.0",
+    "description": "every horny man's worst nightmare kit for building bots with kik",
+    "main": "node kikPush.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/trendy77/crushBot.git"
+    },
+    "author": "tf",
+    "license": "",
+    "bugs": {
+        "url": "//github.com/trendy77/crushBot/issues"
+    },
+    "homepage": "//github.com/trendy77/crushBot#readme",
+    "devDependencies": {
+        
+    },
+    "dependencies": {
+        "@broid/kik": "*",
+        "@broid/schemas": "^1.0.1",
+        "@kikinteractive/kik": "^2.0.0",
+        "eslint": "^4.7.2",
+        "moment": "^2.12.0",
+        "superagent": "^1.8.3",
+        "winston": "^2.2.0"
+    }
+}

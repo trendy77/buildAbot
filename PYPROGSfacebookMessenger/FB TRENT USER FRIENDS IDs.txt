@@ -1,0 +1,38 @@
+ART: C:\Users\trend\Documents\GitHub\krakenTWP\BotSDK\fbchat-1.0.1\FBBOT.py 
+Logging in trendy@three.com.au...
+Login of trendy@three.com.au successful.
+Own id: 768009383
+
+Threads: [<PAGE Abby.ai (246658735763665)>, 
+<USER Megan Christine (1150064155)>, 
+<USER Alex Palmer (504001010)>, 
+<USER Timothy Oxway (854110594)>, 
+<USER Alex Soo (715178249)>, 
+<USER Sarah Fothergill (100006399129930)>,
+ <USER Lachy McConchie (1220207984)>,
+ <USER Eli Bury (100012952627377)>,
+ <USER Sarah Rees (774469327)>,
+ <USER Robert Charles Kimpton (540495359)>,
+ <USER Andrew Fischer (1472412890)>, 
+ <PAGE VapeDirectory (168393240297806)>,
+ <USER Cheryl Fischer (100003905315340)>, 
+ <USER Lucinda Catchlove (620689288)>, 
+ <USER Sophia Grace (100005020805709)>,
+ <USER Eden Whitlock (710856602)>,
+ <USER Britney Harte (100014937692938)>,
+ <USER Katie Adilyn Martin (100017360687687)>,
+ <USER Ange Bas (514703352)>,
+ <USER Breanna Kate (1248489609)>, 
+ <PAGE TechCrunch (8062627951)>,
+ <USER Danielle Simoni (730810530)>, 
+ <USER Joel Farbon (529307675)>,
+ <USER Peggy Daniels (516501551)>,
+ <USER Georgia Moore (100001634654324)>,
+ <USER Jess Lily (586510059)>,
+ <USER Ben Furey (683396192)>, 
+ <USER Amelia Kelaher (553976799)>,
+ <USER Sarah Catherine (1337374673)>, 
+ <USER Joanne Kanjo (100008885898974)>]
+
+Traceback (most recent call last):
+  File "C:\Users\trend\Documents\GitHub\krakenTWP\BotSDK\fbchat-1.0.1\FBBOT.py", line 20, in <module>

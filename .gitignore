@@ -264,3 +264,6 @@ __pycache__/
 SECRETS.json
 node_modules/
 vendor/
+\.vscode/
+
+cgi/stalkPy/generated_graphs/

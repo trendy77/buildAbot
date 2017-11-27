@@ -1,0 +1,8 @@
+SECRETS.txt
+NAMES.txt
+/log/*
+/php/*
+/raw/*
+*.log
+*.json
+*.txt

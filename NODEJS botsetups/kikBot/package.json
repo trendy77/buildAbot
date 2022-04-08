@@ -24,7 +24,7 @@
         "@broid/schemas": "^1.0.1",
         "@kikinteractive/kik": "^2.0.0",
         "eslint": "^4.7.2",
-        "moment": "^2.12.0",
+        "moment": "^2.29.2",
         "superagent": "^1.8.3",
         "winston": "^2.2.0"
     }
